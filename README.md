@@ -6,5 +6,5 @@ https://github.com/MWhybrow92/MajoranaAlgebras
 
 #
 
-[![https://github.com/majoranabot/MajoranaAlgebrasTest/blob/master/plot.png]]
+![Runtime Plot](https://github.com/majoranabot/MajoranaAlgebrasTest/blob/master/plot.png)
 
